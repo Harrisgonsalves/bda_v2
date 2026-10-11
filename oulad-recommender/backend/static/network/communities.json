@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-10-11T20:39:32",
+  "code_module": "BBB",
+  "code_presentation": "2014B",
+  "model_version": "v20261011150528",
+  "students": 20,
+  "links": 100,
+  "communities": 4,
+  "modularity": 0.021,
+  "min_shared": 8,
+  "groups": [
+    {
+      "community": 1,
+      "size": 16,
+      "top_resources": [768343, 768332, 768334]
+    },
+    {
+      "community": 2,
+      "size": 1,
+      "top_resources": [768332, 768333, 768334]
+    },
+    {
+      "community": 3,
+      "size": 1,
+      "top_resources": [768331, 768334, 768335]
+    },
+    {
+      "community": 4,
+      "size": 2,
+      "top_resources": [768332, 768339, 768398]
+    }
+  ]
+}
